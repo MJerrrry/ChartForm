@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ChartForm\ChartForm\bin\Debug\ChartForm.dll
+C:\Users\Administrator\source\repos\ChartForm\ChartForm\bin\Debug\ChartForm.pdb
+C:\Users\Administrator\source\repos\ChartForm\ChartForm\obj\Debug\ChartForm.UserChartForm.resources
+C:\Users\Administrator\source\repos\ChartForm\ChartForm\obj\Debug\ChartForm.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ChartForm\ChartForm\obj\Debug\ChartForm.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ChartForm\ChartForm\obj\Debug\ChartForm.dll
+C:\Users\Administrator\source\repos\ChartForm\ChartForm\obj\Debug\ChartForm.pdb
+D:\VS\ChartForm\ChartForm\bin\Debug\ChartForm.dll
+D:\VS\ChartForm\ChartForm\bin\Debug\ChartForm.pdb
+D:\VS\ChartForm\ChartForm\obj\Debug\ChartForm.UserChartForm.resources
+D:\VS\ChartForm\ChartForm\obj\Debug\ChartForm.csproj.GenerateResource.cache
+D:\VS\ChartForm\ChartForm\obj\Debug\ChartForm.csproj.CoreCompileInputs.cache
+D:\VS\ChartForm\ChartForm\obj\Debug\ChartForm.dll
+D:\VS\ChartForm\ChartForm\obj\Debug\ChartForm.pdb
